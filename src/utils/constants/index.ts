@@ -1,0 +1,1 @@
+export { __REGEX as REGEX } from './regexs'

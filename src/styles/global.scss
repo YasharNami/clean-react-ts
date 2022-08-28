@@ -1,0 +1,97 @@
+@import "../assets/fonts/YekanBakh/css/font.css", "src/styles/references/index", "assets/fonts/Montserrat/css/font.css";
+
+html,
+body {
+    background-color: #f9f9fd !important;
+    overflow-x: hidden;
+}
+
+.xpay-dashboard-main::-webkit-scrollbar {
+    width: 0px;
+} /* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+/* Change the white to any color */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 30px $input inset !important;
+}
+/* Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+.ant-popover-inner-content {
+    width: max-content !important;
+    margin: 0 auto !important;
+}
+body {
+    width: 100%;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    direction: rtl;
+    position: relative; //for mobile header handling
+}
+.rtl {
+    direction: rtl !important;
+}
+.ltr {
+    direction: ltr !important;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+.d-flex {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-weight: bold !important;
+}
+body,
+a,
+button,
+li,
+ul,
+div,
+p,
+table,
+tbody,
+thead,
+tr,
+td,
+th,
+i,
+b,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: YekanBakh !important;
+}
+span {
+    font-family: YekanBakh;
+}
+input {
+    font-family: YekanBakh !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}

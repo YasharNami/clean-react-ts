@@ -1,0 +1,23 @@
+@use "sass:selector";
+
+$bg: #f7f7f7;
+$primary: linear-gradient(95.43deg, #3f62fe -25.7%, #678af5 112.1%);
+$secondary: linear-gradient(105.31deg, #21bcf3 -43.21%, #7bd5ed 125.86%);
+
+$input: #f9f9fd;
+
+$success: #2ac769;
+$danger: #e93c3c;
+$info: #3f62fe;
+
+$waiting-badge: rgba(246, 166, 9, 0.2);
+$success-badge: #d4f4e1;
+$danger-badge: #fedcdc;
+
+$warning-alert: rgba(232, 152, 6, 0.1);
+$gray-text: #a8a9aa;
+$gray-span: #859abc;
+$bold-span: #383952;
+
+$white: #ffffff;
+$table-border: #d9dfff;

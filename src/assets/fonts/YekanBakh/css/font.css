@@ -1,0 +1,54 @@
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 900;
+	/*src: url("../fonts/eot/Yekan\ Bakh\ Fa\ 07\ Heavy.eot");*/
+	/*src: url("../fonts/woff/Yekan\ Bakh\ Fa\ 07\ Heavy.woff") format("woff"),*/
+	/* IE6-8 */
+	src: url("../Fa/Yekan\ Bakh\ FaNum\ 07\ Heavy.ttf") format("truetype");
+}
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: bold;
+	/*src: url("../fonts/eot/Yekan\ Bakh\ Fa\ 06\ Bold.eot");*/
+	/*src: url("../fonts/woff/Yekan\ Bakh\ Fa\ 06\ Bold.woff") format("woff"),*/
+	/* IE6-8 */
+	src: url("../Fa/Yekan\ Bakh\ FaNum\ 08\ Fat.ttf") format("truetype");
+}
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 500;
+	/*src: url("../fonts/eot/Yekan\ Bakh\ Fa\ 04\ Regular.eot");*/
+	/*src: url("../fonts/woff/Yekan\ Bakh\ Fa\ 04\ Regular.woff") format("woff"),*/
+	/* IE6-8 */
+	src: url("../Fa/Yekan Bakh FaNum 06 Bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 300;
+	/*src: url("../fonts/eot/Yekan\ Bakh\ Fa\ 03\ Light.eot");*/
+	/*src: url("../fonts/woff/Yekan\ Bakh\ Fa\ 03\ Light.woff") format("woff"),*/
+	/* IE6-8 */
+	src: url("../Fa/Yekan Bakh FaNum 05 Medium.ttf") format("truetype");
+}
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: 200;
+	/*src: url("../fonts/eot/Yekan\ Bakh\ Fa\ 01\ Hairline.eot");*/
+	/*src: url("../fonts/woff/Yekan\ Bakh\ Fa\ 01\ Hairline.woff") format("woff"),*/
+	/* IE6-8 */
+	src: url("../Fa/Yekan Bakh FaNum 02 Thin.ttf") format("truetype");
+}
+@font-face {
+	font-family: YekanBakh;
+	font-style: normal;
+	font-weight: normal;
+	/*src: url("../fonts/eot/Yekan\ Bakh\ Fa\ 05\ Medium.eot");*/
+	/*src: url("../fonts/woff/Yekan\ Bakh\ Fa\ 05\ Medium.woff") format("woff"),*/
+	/* IE6-8 */
+	src: url("../Fa/Yekan Bakh FaNum 04 Regular.ttf") format("truetype");
+}
